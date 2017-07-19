@@ -2,7 +2,7 @@
 
 // Example 1: pre const to #define
 #define ASPECT_RATIO 1.653	// not recommended to use due to variable's name is 
-							// not generated when error occurs => difficult to debug
+				// not generated when error occurs => difficult to debug
 const double ASPECT_RATIO = 1.653; // recommended to use 
 
 
