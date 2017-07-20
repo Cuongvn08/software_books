@@ -9,6 +9,7 @@ For instance, it specialize on how to choose between inheritance and templates? 
 2. Item2: Prefer consts, enums, inlines to #define
     * For simple constants, prefer const or enums to #defines: 
     * For function-like macros, prefer inline functions to #defines
+3. Item3: Use const whenever possible
 
 
 
