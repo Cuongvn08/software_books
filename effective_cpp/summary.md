@@ -10,6 +10,8 @@ For instance, it specialize on how to choose between inheritance and templates? 
     * For simple constants, prefer const or enums to #defines: 
     * For function-like macros, prefer inline functions to #defines
 3. Item3: Use const whenever possible
+4. Item4: Make sure that any object should be initialized before using
+
 
 
 
