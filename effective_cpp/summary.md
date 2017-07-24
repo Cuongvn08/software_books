@@ -16,11 +16,11 @@ For instance, it specialize on how to choose between inheritance and templates? 
 
 ### Chapter 2: Constructors, Destructors, and Assignment Operators
 
-5. Item5: class automatically generates default constructor, copy-constructor 
+5. Item5: Class automatically generates default constructor, copy-constructor 
 function, assignment operator, deconstructor.
-6. Item6: prevent the automaticaly generated functions as copy-constructor or 
+6. Item6: Prevent the automaticaly generated functions as copy-constructor or 
 assignment operator.
-7. Item7: must declare the deconstructor function in the base class virtual.
+7. Item7: Must declare the deconstructor function in the base class virtual.
 This helps to release all resources in the derived class when deleting pointer.
 
 
