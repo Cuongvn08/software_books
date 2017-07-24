@@ -20,6 +20,8 @@ For instance, it specialize on how to choose between inheritance and templates? 
 function, assignment operator, deconstructor.
 6. Item6: prevent the automaticaly generated functions as copy-constructor or 
 assignment operator.
+7. Item7: must declare the deconstructor function in the base class virtual.
+This helps to release all resources in the derived class when deleting pointer.
 
 
 
