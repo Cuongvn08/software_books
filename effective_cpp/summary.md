@@ -16,8 +16,11 @@ For instance, it specialize on how to choose between inheritance and templates? 
 
 ### Chapter 2: Constructors, Destructors, and Assignment Operators
 
-5. Item5: class automatically generates default constructor, copy-constructor function,
-assignment operator, deconstructor.
+5. Item5: class automatically generates default constructor, copy-constructor 
+function, assignment operator, deconstructor.
+6. Item6: prevent the automaticaly generated functions as copy-constructor or 
+assignment operator.
+
 
 
 
